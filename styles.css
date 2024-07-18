@@ -1,0 +1,35 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: orange;
+}
+
+.index-images {
+    width: 200px;
+    height: auto;
+}
+
+.index-border {
+    border: 2px solid red;
+}
+
+
+.recipe-image {
+    width: 550px;
+    height: auto;   
+}
+
+.background-color1 {
+    background-color: rgba(162, 189, 82, 0.878);
+}
+
+.background-color2 {
+    background-color: rgb(255, 182, 47);
+}
+
+.ingredients-border {
+    border: solid black 1px; 
+}
+
+.steps-border {
+    border: solid black 3px;
+}
